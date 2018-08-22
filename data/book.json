@@ -1,7 +1,7 @@
 {
 	"data":[	
 		{
-			"img":"../src/assets/img/book/book1.png",
+			"img":"src/assets/img/book/book1.png",
 			"title":"VIP的济州岛特别攻略",
 			"author":"胜利vi",
 			"time":"2018-8-18",
@@ -10,7 +10,7 @@
 			"num":"789"
 		},
 		{
-			"img":"../src/assets/img/book/book2.png",
+			"img":"src/assets/img/book/book2.png",
 			"title":"济州岛四天三夜自由行",
 			"author":"heasen88",
 			"time":"2018-7-18",
@@ -19,7 +19,7 @@
 			"num":"302"
 		},
 		{
-			"img":"../src/assets/img/book/book3.jpg",
+			"img":"src/assets/img/book/book3.jpg",
 			"title":"漫游济州随行记",
 			"author":"龙tory",
 			"time":"2017-12-12",
@@ -28,7 +28,7 @@
 			"num":"683"
 		},
 		{
-			"img":"../src/assets/img/book/book5.jpg",
+			"img":"src/assets/img/book/book5.jpg",
 			"title":"十月济州岛：秋风徐来",
 			"author":"塔塔塔",
 			"time":"2015-10-18",
@@ -37,7 +37,7 @@
 			"num":"168"
 		},
 		{
-			"img":"../src/assets/img/book/book4.jpg",
+			"img":"src/assets/img/book/book4.jpg",
 			"title":"济州岛冬季游玩攻略",
 			"author":"高상",
 			"time":"2018-2-18",
@@ -46,7 +46,7 @@
 			"num":"369"
 		},
 		{
-			"img":"../src/assets/img/book/book6.jpg",
+			"img":"src/assets/img/book/book6.jpg",
 			"title":"去济州岛给自己放个假",
 			"author":"sunrise",
 			"time":"2017-10-24",
