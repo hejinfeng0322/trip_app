@@ -1,0 +1,29 @@
+{
+	"data":[
+	{
+		"view":[
+			{"img":"src/assets/img/home/h_view1.jpg"},
+			{"img":"src/assets/img/home/h_view2.jpg"},
+			{"img":"src/assets/img/home/h_view3.jpg"},
+			{"img":"src/assets/img/home/h_view4.jpg"}
+	]},
+	{
+		"hot":[
+		{
+			"img":"src/assets/img/home/h_hot1.jpg",
+			"title":"西归浦市",
+			"text":"西归浦市的年平均气温为15.7摄氏度，是韩国国内气温最为温暖的地方"
+		},
+		{
+			"img":"src/assets/img/home/h_hot2.png",
+			"title":"中文旅游区",
+			"text":"中文旅游区是济州岛的综合性观光园地，也是韩国规模最大的修养地"
+		},
+		{
+			"img":"src/assets/img/home/h_hot3.png",
+			"title":"济州国际机场",
+			"text":"济州国际机场是韩国第三大机场，仅次于首尔的金浦机场和仁川机场"
+		}
+	]}
+]
+}

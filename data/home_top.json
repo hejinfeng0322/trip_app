@@ -1,0 +1,76 @@
+{
+	"data":[
+	{
+		"weather":[
+		{
+			"img":"src/assets/img/home/home_top/weather.png",
+			"title":"25℃",
+			"high_low":"29℃ / 22℃",
+			"text":"多云 2级风 微风"
+		}
+	]},
+	{
+		"food":[
+		{
+			"img":"src/assets/img/home/home_top/food1.jpg",
+			"title":"太平洋乐园EI Marino自助餐(原香格里拉自助餐)",
+			"grade":"5",
+			"text":"/5.0分"
+		},
+		{
+			"img":"src/assets/img/home/home_top/food2.jpg",
+			"title":"济州Hello Kitty咖啡厅",
+			"grade":"5",
+			"text":"/5.0分"
+		},
+		{
+			"img":"src/assets/img/home/home_top/food3.jpg",
+			"title":"济州岛烤烤火炉披萨/面包",
+			"grade":"5",
+			"text":"/5.0分"
+		},
+		{
+			"img":"src/assets/img/home/home_top/food4.png",
+			"title":"西归浦“香蕉牛奶咖啡店”",
+			"grade":"5",
+			"text":"/5.0分"
+		}
+	]},
+	{
+		"view":[
+		{
+			"img":"src/assets/img/home/home_top/view1.jpg",
+			"title":"济州城市观光巴士",
+			"grade":"5",
+			"text":"/5.0分"
+		},
+		{
+			"img":"src/assets/img/home/home_top/view2.jpg",
+			"title":"济州岛泰迪熊博物馆",
+			"grade":"5",
+			"text":"/5.0分"
+		},
+		{
+			"img":"src/assets/img/home/home_top/view3.jpg",
+			"title":"济州Aqua planet水族馆",
+			"grade":"5",
+			"text":"/5.0分"
+		},
+		{
+			"img":"src/assets/img/home/home_top/view4.jpg",
+			"title":"济州岛世界汽车博物馆",
+			"grade":"5",
+			"text":"/5.0分"
+		}
+	]},
+	{
+		"buy":[
+		{
+			"img":"src/assets/img/home/home_top/buy1.jpg",
+			"title":"济州西归浦每日偶来市场",
+			"grade":"5",
+			"text":"/5.0分"
+		}
+	]}
+]
+}
